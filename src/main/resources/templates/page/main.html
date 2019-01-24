@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko" 
+xmlns:th="http://www.thymeleaf.org" 
+xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" 
+layout:decorate="~{layout/user.html}" 
+th:with="
+title='', 
+bodyClass='',
+menu=''
+">
+
+<th:block layout:fragment="page">
+
+</th:block>
+
+<th:block layout:fragment="script">
+<script>
+	console.log('스크립트 영역 입니당.')
+</script>
+</th:block>
+
+<th:block layout:fragment="style">
+<style>
+.a {
+	color:red;
+}
+</style>
+</th:block>
+
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html class="no-js css-menubar" lang="ko" xmlns:th="http://www.thymeleaf.org"
+  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<meta charset="utf-8">
+<th:block th:fragment="sessionFragment" layout:fragment="session">
+	
+	<script th:inline="javascript" type="text/javascript">
+	var session = {}
+	session.email = /*[[${session.user.email}]]*/;
+	session.name = /*[[${session.user.name}]]*/;
+	session.role = /*[[${session.user.role}]]*/;
+	</script>
+    
+</th:block>
+</html>

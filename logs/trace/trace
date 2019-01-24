@@ -1,0 +1,44 @@
+2019, 01, 11, 16, 07, 47, 829, 0, 0:0:0:0:0:0:0:1, 5D6AF433F10D7899141EE48A1106C4F3, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 16, 12, 32, 373, 1, 0:0:0:0:0:0:0:1, 949591CA74C598CD202F62220ED87574, GET, /login, page/login, Undefined, null, http-nio-8080-exec-3
+2019, 01, 11, 16, 13, 26, 661, 0, 0:0:0:0:0:0:0:1, 949591CA74C598CD202F62220ED87574, GET, /login, page/login, Undefined, null, http-nio-8080-exec-6
+2019, 01, 11, 16, 14, 41, 674, 13, 0:0:0:0:0:0:0:1, 949591CA74C598CD202F62220ED87574, GET, /api/test, null, Undefined, null, http-nio-8080-exec-1
+2019, 01, 11, 16, 26, 57, 682, 12, 0:0:0:0:0:0:0:1, 949591CA74C598CD202F62220ED87574, REST, GET, /api/test, null, undefined, null, http-nio-8080-exec-6
+2019, 01, 11, 16, 27, 30, 127, 1219, 0:0:0:0:0:0:0:1, 5D6AF433F10D7899141EE48A1106C4F3, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 16, 27, 42, 496, 4248, 0:0:0:0:0:0:0:1, 5D6AF433F10D7899141EE48A1106C4F3, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-2
+2019, 01, 11, 16, 27, 43, 819, 0, 0:0:0:0:0:0:0:1, 5D6AF433F10D7899141EE48A1106C4F3, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-5
+2019, 01, 11, 16, 27, 44, 149, 1, 0:0:0:0:0:0:0:1, 5D6AF433F10D7899141EE48A1106C4F3, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-6
+2019, 01, 11, 16, 27, 44, 360, 0, 0:0:0:0:0:0:0:1, 5D6AF433F10D7899141EE48A1106C4F3, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 16, 47, 13, 604, 1, 0:0:0:0:0:0:0:1, 5D6AF433F10D7899141EE48A1106C4F3, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 16, 47, 18, 540, 1, 0:0:0:0:0:0:0:1, 8436E92189F1607BEB61028A87F45FDE, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 16, 50, 39, 445, 5, 0:0:0:0:0:0:0:1, D9F3A61A19A279EDD7E62503A97943BC, VIEW, GET, /login, page/login, Chrome, null, http-nio-8080-exec-1
+2019, 01, 11, 16, 50, 43, 719, 0, 0:0:0:0:0:0:0:1, 5088F7A4E97353F7284C2CDA8514C574, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 17, 02, 06, 560, 1, 0:0:0:0:0:0:0:1, 5088F7A4E97353F7284C2CDA8514C574, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-4
+2019, 01, 11, 17, 02, 12, 236, 0, 0:0:0:0:0:0:0:1, 10A6EED4CDEA5C8537F84CEFA1051030, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 17, 05, 20, 005, 7, 0:0:0:0:0:0:0:1, 10A6EED4CDEA5C8537F84CEFA1051030, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 17, 08, 21, 927, 16, 0:0:0:0:0:0:0:1, 82C8B63C69DB1326EE0ED6E207722EDD, VIEW, GET, /login, page/login, Chrome, null, http-nio-8080-exec-1
+2019, 01, 11, 17, 08, 22, 608, 0, 0:0:0:0:0:0:0:1, 82C8B63C69DB1326EE0ED6E207722EDD, VIEW, GET, /login, page/login, Chrome, null, http-nio-8080-exec-2
+2019, 01, 11, 17, 08, 30, 708, 0, 0:0:0:0:0:0:0:1, ED4AD89F524AFCA73141228AF8FDBE9F, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-4
+2019, 01, 11, 17, 09, 46, 858, 0, 0:0:0:0:0:0:0:1, ED4AD89F524AFCA73141228AF8FDBE9F, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-2
+2019, 01, 11, 17, 09, 51, 242, 0, 0:0:0:0:0:0:0:1, ED4AD89F524AFCA73141228AF8FDBE9F, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 17, 09, 51, 529, 0, 0:0:0:0:0:0:0:1, ED4AD89F524AFCA73141228AF8FDBE9F, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 17, 10, 00, 580, 0, 0:0:0:0:0:0:0:1, 97FB3C6EA1766D6A7FCABB90DF2CF0BD, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-8
+2019, 01, 11, 17, 10, 49, 829, 0, 0:0:0:0:0:0:0:1, 97FB3C6EA1766D6A7FCABB90DF2CF0BD, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-7
+2019, 01, 11, 17, 12, 00, 327, 0, 0:0:0:0:0:0:0:1, 97FB3C6EA1766D6A7FCABB90DF2CF0BD, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-10
+2019, 01, 11, 17, 18, 36, 785, 6, 0:0:0:0:0:0:0:1, 412AE21C40EE559F4B77284957FDA97B, VIEW, GET, /login, page/login, Chrome, null, http-nio-8080-exec-1
+2019, 01, 11, 17, 18, 40, 507, 1, 0:0:0:0:0:0:0:1, 1783513729B87E722607C2DB7E75A891, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 17, 20, 05, 927, 8, 0:0:0:0:0:0:0:1, 1783513729B87E722607C2DB7E75A891, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 17, 20, 08, 722, 1, 0:0:0:0:0:0:0:1, 1783513729B87E722607C2DB7E75A891, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 17, 20, 09, 027, 0, 0:0:0:0:0:0:0:1, 1783513729B87E722607C2DB7E75A891, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-2
+2019, 01, 11, 17, 20, 19, 910, 17, 0:0:0:0:0:0:0:1, 1783513729B87E722607C2DB7E75A891, VIEW, POST, /error, error, Chrome, opzyra, http-nio-8080-exec-5
+2019, 01, 11, 17, 21, 09, 298, 1, 0:0:0:0:0:0:0:1, 1783513729B87E722607C2DB7E75A891, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 17, 21, 09, 588, 1, 0:0:0:0:0:0:0:1, 1783513729B87E722607C2DB7E75A891, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-2
+2019, 01, 11, 17, 21, 13, 564, 0, 0:0:0:0:0:0:0:1, A4AF3C47F116B2691346C581AF1A8C6C, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 17, 23, 15, 865, 0, 0:0:0:0:0:0:0:1, A4AF3C47F116B2691346C581AF1A8C6C, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-7
+2019, 01, 11, 17, 23, 16, 251, 0, 0:0:0:0:0:0:0:1, A4AF3C47F116B2691346C581AF1A8C6C, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-4
+2019, 01, 11, 17, 24, 24, 222, 0, 0:0:0:0:0:0:0:1, A4AF3C47F116B2691346C581AF1A8C6C, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 17, 29, 00, 790, 0, 0:0:0:0:0:0:0:1, A4AF3C47F116B2691346C581AF1A8C6C, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-5
+2019, 01, 11, 17, 29, 58, 125, 0, 0:0:0:0:0:0:0:1, A4AF3C47F116B2691346C581AF1A8C6C, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-4
+2019, 01, 11, 17, 33, 08, 663, 6, 0:0:0:0:0:0:0:1, A4AF3C47F116B2691346C581AF1A8C6C, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-1
+2019, 01, 11, 17, 33, 13, 628, 1, 0:0:0:0:0:0:0:1, A8B8165E07CE749BB8A997B01C4A6243, VIEW, GET, /main, page/main, Chrome, opzyra, http-nio-8080-exec-3
+2019, 01, 11, 17, 33, 15, 177, 1, 0:0:0:0:0:0:0:1, A8B8165E07CE749BB8A997B01C4A6243, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-4
+2019, 01, 11, 17, 33, 51, 392, 0, 0:0:0:0:0:0:0:1, A8B8165E07CE749BB8A997B01C4A6243, VIEW, GET, /login, page/login, Chrome, opzyra, http-nio-8080-exec-9

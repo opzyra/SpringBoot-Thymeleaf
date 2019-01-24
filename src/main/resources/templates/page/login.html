@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko" 
+xmlns:th="http://www.thymeleaf.org" 
+xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" 
+layout:decorate="~{layout/nomal.html}" 
+th:with="
+title='', 
+bodyClass='',
+menu=''
+">
+
+<th:block layout:fragment="page">
+<span class="a">로그인 테스트</span>
+<form action="/access" method="POST">
+	<input placeholder="아이디" name="id"/>
+	<input type="password" placeholder="비밀번호" name="password"/>
+	<input type="submit" value="전송"/>
+</form>
+</th:block>
+
+<th:block layout:fragment="script">
+<script type="text/javascript">
+	console.log('스크립트 영역 입니당.')
+</script>
+</th:block>
+
+<th:block layout:fragment="style">
+<style>
+.a {
+	color:red;
+}
+</style>
+</th:block>
+
+</html>
