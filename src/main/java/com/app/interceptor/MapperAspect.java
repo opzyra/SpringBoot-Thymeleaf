@@ -34,7 +34,7 @@ public class MapperAspect {
 
 		Object result = null;
 		
-		String className = joinPoint.getSignature().getDeclaringTypeName().substring(21);
+		String className = joinPoint.getSignature().getDeclaringTypeName().substring(15);
 	    
 	    String methodName = joinPoint.getSignature().getName();
 	    
