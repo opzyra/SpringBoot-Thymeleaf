@@ -6,6 +6,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindException;
 import org.springframework.web.HttpRequestMethodNotSupportedException;
+import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
@@ -40,6 +41,12 @@ public class RestExceptionHandler {
 	@ExceptionHandler(AlgorithmException.class)
 	public ResponseEntity<?> handleAlgorithmException(AlgorithmException e) {
 		ExceptionResponse param = ExceptionResponse.builder().message("AES Algorithm Error").build();
+		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(param);
+	}
+	
+	@ExceptionHandler(MethodArgumentNotValidException.class)
+	public ResponseEntity<?> handleMethodArgumentNotValidException(MethodArgumentNotValidException e) {
+		ExceptionResponse param = ExceptionResponse.builder().message("Validation Error").build();
 		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(param);
 	}
 	
